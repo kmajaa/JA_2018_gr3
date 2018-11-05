@@ -12,7 +12,7 @@ extern "C" int _stdcall MyProc1(DWORD x, DWORD y);
 int _tmain(int argc, _TCHAR* argv[])
 {
 	// statically link JADll.dll
-	int x = 3, y = 4, z = 0, w = 0;
+	int x = 3, y = 4, z = 0;
 
 	// call assembly procedure found in library
 	greetUser();
