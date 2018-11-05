@@ -1,3 +1,28 @@
 2018-10-21 --- v0.0
 
 Stworzenie szkieletu folderu Źródła projektu, z programem głównym w języku wysokiego poziomu, biblioteką DLL w języku wysokiego poziomu i biblioteką DLL w języku assemblera. 
+
+
+2018-10-22 --- v0.1
+
+Wstępny szkielet funkcji main. 
+Próbny kod w CPP i asm.
+Linkowanie statyczne DLL.
+
+
+2018-10-28 --- v0.2
+
+Karta projektu z tematem i założeniami. 
+Wczytywanie danych.
+Wykrywanie liczby rdzeni procesora. 
+
+
+2018-11-04 --- v1.0
+
+Przeprojektowanie programu. 
+Linkowanie dynamiczne DLL.
+Prototyp funkcji Vigenere w asm. 
+Prototyp funkcji Vigenere w CPP.
+Wybór liczby wątków. 
+Przekazywanie danych do wątków. 
+Przygotowanie plików .bat do testów. 

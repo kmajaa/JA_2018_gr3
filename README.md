@@ -7,4 +7,4 @@ Aplikacja szyfrująca tekst szyfrem Vigenere - szyfrem podobny do szyfru Cezara,
 
 
 
-The program encrypts text using Vigenere cipher - a cipher similar to Ceaser cipher, but different in that the key is not a single character, but a word/phrase, where consecutive letters from the plaintext are encoded with consecutive letteres of the keyword/keyphrase (wrapping around the keyphrase), i.e. shifted as many places as the position of given letter in an English alphabet.
+The program encrypts text using Vigenere cipher - a cipher similar to Ceaser cipher, but different in that the key is not a single character, but a word, where consecutive letters from the plaintext are encoded with consecutive letteres of the keyword (wrapping around the keyword), i.e. shifted as many places as the position of given letter in an English alphabet.
